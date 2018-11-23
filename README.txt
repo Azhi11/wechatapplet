@@ -1,1 +1,1 @@
-this is a wechatapplet1122
+this is a wechatapplet
