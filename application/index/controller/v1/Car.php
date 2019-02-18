@@ -5,7 +5,7 @@
  * Date: 2018/11/23
  * Time: 18:40
  */
-namespace app\index\controller;
+namespace app\index\controller\v1;
 class Car
 {
     public function test()
